@@ -1,8 +1,17 @@
-# Hello-Im-Sipho-Lukhulene
-## Data Analyst | SQL | Python | Power BI | Excel
+Hello, I'm Sipho Lukhulene
+Junior Data Analyst | SQL | Python | Power BI | Excel
 I am an aspiring Data Analyst with over 10 years of professional experience in operational reporting, safety management, compliance, and risk analysis within the mining and banking industries.
 
 I enjoy transforming raw data into meaningful insights that support better business decisions. I am currently expanding my expertise in SQL, Python, Power BI, Excel, and statistics through hands-on projects that simulate real business scenarios.
+## Certifications
+
+• IBM Data Analytics
+• Microsoft SQL Foundations
+• Google Data Analytics
+• IBM Python
+• AWS Cloud
+• Data Visualization
+
 ### Technical Skills
 
 • SQL
